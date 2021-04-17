@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Latinos",America TV SD
-http://iptvcanales.gq/canales/cable/faymd52t0uzsiy7/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",America TV HD
 http://iptvcanales.gq/canales/tvfree/206/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Panamericana SD
-http://iptvcanales.gq/canales/tvfree/141/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Panamericana HD
-http://iptvcanales.gq/canales/live/47/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",RCN
-http://iptvcanales.gq/canales/tvfree/193/playlist.m3u8
-#EXTINF:-1 group-title="Latinos",Caracol Internacional
-http://iptvcanales.gq/canales/live/28/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",Telefe SD
 http://iptvcanales.gq/canales/cable/x8rbhuvs3uyfie/playlist.m3u8
 #EXTINF:-1 group-title="Latinos",Telefe HD
