@@ -1,92 +1,191 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Jud10w2-cxdmYn9nt4KY5siUtaJJphmMaT0cLQCn7Xo8QFvCp-dGW7h5zX69wleuAa8=s180",ARGENTINA
-http://127.0.0.1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1gHj_nLWhaGNfk5gYfEoENvdvYEEnrlFWCQ&usqp=CAU",CANAL 4
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/Canal-4.png",CANAL 4 POSADAS
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/108916_CANAL_5TV.jpg", CANAL 5TV
-http://coninfo.net:1935/13maxhd/live_720p/chunklist_w1236577093.m3u8
-#EXTINF:-1 tvg-logo="https://www.bresciasat.it/assets/front/img/SUPERTV_1080.png", SUPER.TV
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/-zZ1mqD-N3D0/AAAAAAAAAAI/AAAAAAAAAAA/aQXLTyHZhTE/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",CCN.3.TV HD
-http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png",CINCOTV
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="http://canal3argentina.tv/wp-content/uploads/2018/08/logoweb.png",CANAL CN.3 HD
-https://stmv1.voxtvhd.com.br/tresargtv/tresargtv/chunklist_w1209878679.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZcUo2tNHLclj6aCa6SRgY8tbjL8xn-sD9IA&usqp=CAU", GEN TV HD
-https://videohd.live:19360/8010/8010.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521", CANAL 13 SAN LUIS
-https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w22689037_b581072.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/22bd61a5-ed59-497e-ad73-67b7ac9d293c-profile_image-300x300.png",LATINATV 42.1 DE LA TDA.HD
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA EUROPA FUL_HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzCFgO7dVurNKMiJjgCSQkaCLwVu_husCxVzon8NgO7W093gHgw",EUROPA EUROPA 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/772
-#EXTINF:-1 tvg-logo="http://www.eurochannel.com/images/Logo_Eurochannel-Blue.png", EURO CHANNEL FUL-HD
-
-#EXTINF:-1 tvg-logo="http://bit.ly/2nmHfKi" group-title="Cine",ISAT HD
-http://ipeteve.com/php/REGIO_PLAY_281119/regio22.php?c=isat&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg", CINE AR.TV HD
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w140296313.m3u8
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ar-canal-7-jujuy-2978.jpg",CANAL 7 Jujuy
-https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3v0JfX-x7l_CBLGgk-PyioJ4pEOIlRkwaOA&usqp=CAU",CANAL 7 SALTA 
-https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-8-Catamarca-en-vivo.png?resize=324%2C160", Canal 8 Catamarca
-https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w1882978628.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png",EL CANAL 9 HD
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w857109780_b850000_slesp.m3u8
-#EXTINF:-1 tvg-logo="https://elnueve-compress.s3-accelerate.amazonaws.com/files/1540224159808canal-nueve-buenos-aires.jpg",CANAL 9 HD
-http://89.105.194.59:25461/live/spart$!bitch/spart$!bitch/121.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s", CANAL.9 MULTIVISION
-https://panel.dattalive.com/8250/8250/chunklist_w1456715835.m3u8?_=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-D3Rt3VXwXAS0wMCCH2pKPU4tFL1SgKDGw&usqp=CAU",Encuentro HD
-http://panel.dattalive.com:1935/8204/8204/chunklist_w448763530.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6-D3Rt3VXwXAS0wMCCH2pKPU4tFL1SgKDGw&usqp=CAU",Encuentro HD
-https://contar1.c.s73cdn.net/d2c35dc9-a317-47fd-a323-796a1f42516f/elemental/live/master_480x270_446k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEkH6Rj.png" group-title="TV ARGENTINA",TELEFE HD
-http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/40/48/2c/40482cf6af582372c2a22072a2394a80.png",America HD
-http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/02/pluto-tv.jpg",CANALES PLUTO.TV
-http://45.6.4.154
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png?w=117",CINE ESTELAR PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png?w=117",CINE ACCION PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE FAMILIAR PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur", SERIES PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur",CINE ROMANCE PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png?w=117",CINE TERROR PLUTO.TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-
-#EXTINF:-1 tvg-logo="https://www.nme.com/discount-codes/vfiles/46676/merchant_image-merchant_logo_large.png",SPORT
-http://45.6.4.154
-#EXTINF:-1 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png",CLARO SPORT YUO TUVE
-https://www.youtube.com/watch?v=dDyvpgDetIk
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/goltv-1650.png", GOLTV HD
-http://redcoliptv.com:8090/juanfernando/juanfernando/2689
-#EXTINF:-1 tvg-logo="https://facturaenlinea.co/wp-content/uploads/2016/03/winsports-bn.png",WIN HD
-https://teleclub.xyz/tv/canal?tele=WIN_SPORT_HD&format=.m3u8
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports HD
-http://ed8.oknirvana.club:8880/Upjcd6aFC4/GLNuhnKcg6/30054
-#EXTINF:-1 tvg-logo="https://www.nibbletv.info/img/ch/tyc-sports.png",TyC Sports 
-http://89.105.194.59:25461/live/spfut$90/spfut$90/120.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BbtjSmTfOUM/WfvFBX3No8I/AAAAAAAAAxQ/eMjY5mo9CJg-mKSwDMU9IQEtjfjuyy3KACLcBGAs/s1600/tntsports.png",TNT SPOht HD
-
-
-#EXTINF:-1 tvg-logo="http://static-1.ivoox.com/canales/4/0/5/8/7471491368504_XXL.jpg",CULTURA GENERAL
-http://45.6.4.154
-#EXTINF:-1 tvg-logo="https//pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png",NATGEO MUNDO HD
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/598
+#EXT#EXTM3U
+#EXTINF:-1 group-title="Latinos",America TV SD
+http://iptvcanales.gq/canales/cable/faymd52t0uzsiy7/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",America TV HD
+http://iptvcanales.gq/canales/tvfree/206/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Panamericana SD
+http://iptvcanales.gq/canales/tvfree/141/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Panamericana HD
+http://iptvcanales.gq/canales/live/47/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",RCN
+http://iptvcanales.gq/canales/tvfree/193/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Caracol Internacional
+http://iptvcanales.gq/canales/live/28/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Telefe SD
+http://iptvcanales.gq/canales/cable/x8rbhuvs3uyfie/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Telefe HD
+http://iptvcanales.gq/canales/tv/telefe_hls/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Telefe Rosario
+http://iptvcanales.gq/canales/live/16/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",El Trece
+http://iptvcanales.gq/canales/cable/s7smi57g/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",TV Publica
+http://iptvcanales.gq/canales/cable/uqyb27oew8/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",C5N
+http://iptvcanales.gq/canales/cable/jbb3fpxg8m63f/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",26
+http://iptvcanales.gq/canales/cable/nxrh8/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Cronica TV
+http://iptvcanales.gq/canales/cable/mcopl219gq8x7s/playlist.m3u8
+#EXTINF:-1 group-title="Latinos",Ciudad Magazine
+http://iptvcanales.gq/canales/cable/mcopl219gq8x7s/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports SD
+http://iptvcanales.gq/canales/cable/kqfqxg/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports HD
+http://iptvcanales.gq/canales/tv/tntsports_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium SD
+http://iptvcanales.gq/canales/cable/nqr8ua5ep6t/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports Premium HD
+http://iptvcanales.gq/canales/tv/foxpremium_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Tyc Sports
+http://iptvcanales.gq/canales/cable/66x0o71mv37k/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TUDN
+http://iptvcanales.gq/canales/cable/5oaf5ei2lcv9/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",GOlTV
+http://iptvcanales.gq/canales/cable/nt79b4v8i6/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports AR SD
+http://iptvcanales.gq/canales/cable/kx8ric6rf/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sport AR HD
+http://iptvcanales.gq/canales/tv/fox_sport_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 AR SD
+http://iptvcanales.gq/canales/cable/70ublqdqhun705w/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sport 2 AR HD
+http://iptvcanales.gq/canales/tv/fox_sport2_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 AR SD
+http://iptvcanales.gq/canales/cable/30h9tv6w0gwaq/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sport 3 AR HD
+http://iptvcanales.gq/canales/tv/fox_sport3_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN AR SD
+http://iptvcanales.gq/canales/cable/yzfwp0ngkv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN AR HD
+http://iptvcanales.gq/canales/tv/espn_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 AR SD
+http://iptvcanales.gq/canales/cable/xqnp3kvij9pvoub/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 AR HD
+http://iptvcanales.gq/canales/tv/espn2_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 AR SD
+http://iptvcanales.gq/canales/cable/55969ysaajd0z/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 AR HD
+http://iptvcanales.gq/canales/tv/espn3_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN+ AR
+http://iptvcanales.gq/canales/cable/gvvlyx08sj7/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports MX SD
+http://iptvcanales.gq/canales/cable/u8wu10r51/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports MX HD
+http://iptvcanales.gq/canales/rojo/97910/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 MX SD
+http://iptvcanales.gq/canales/cable/1gqshmk2vdaig/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2 MX HD
+http://iptvcanales.gq/canales/rojo/97909/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 MX
+http://iptvcanales.gq/canales/cable/m86og/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN MX
+http://iptvcanales.gq/canales/cable/sojfama15q3qdvv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2 MX
+http://iptvcanales.gq/canales/cable/d7pu5zligobina/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3 MX
+http://iptvcanales.gq/canales/cable/55969ysaajd0z/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Golf HD
+http://iptvcanales.gq/canales/tv/golf_hls/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Claro Sports
+http://iptvcanales.gq/canales/live/28/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",GolTV
+http://iptvcanales.gq/canales/tvfree/7/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",WinSports
+http://iptvcanales.gq/canales/tvfree/8/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",WinSports+
+http://iptvcanales.gq/canales/tvfree/140/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",DirecTV Sports
+http://iptvcanales.gq/canales/tvfree/20/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",DirecTV Sports
+http://iptvcanales.gq/canales/tvfree/21/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",DirecTV Sports +
+http://iptvcanales.gq/canales/tvfree/22/playlist.m3u8
+#EXTINF:-1 group-title="España",La 1
+http://iptvcanales.gq/canales/tvfree/328/playlist.m3u8
+#EXTINF:-1 group-title="España",La 2
+http://iptvcanales.gq/canales/tvfree/29/playlist.m3u8
+#EXTINF:-1 group-title="España",tdp
+http://iptvcanales.gq/canales/tvfree/330/playlist.m3u8
+#EXTINF:-1 group-title="España",24h
+http://iptvcanales.gq/canales/tvfree/331/playlist.m3u8
+#EXTINF:-1 group-title="España",Antena Tres
+http://iptvcanales.gq/canales/tvfree/332/playlist.m3u8
+#EXTINF:-1 group-title="España",La Sexta
+http://iptvcanales.gq/canales/tvfree/333/playlist.m3u8
+#EXTINF:-1 group-title="España",nova
+http://iptvcanales.gq/canales/tvfree/334/playlist.m3u8
+#EXTINF:-1 group-title="España",Mega
+http://iptvcanales.gq/canales/tvfree/335/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar Accion
+http://iptvcanales.gq/canales/tvfree/337/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar Estrenos
+http://iptvcanales.gq/canales/tvfree/338/playlist.m3u8
+#EXTINF:-1 group-title="España",DAZN
+http://iptvcanales.gq/canales/tvfree/339/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar Golf
+http://iptvcanales.gq/canales/tvfree/345/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar CineDoc & Roll
+http://iptvcanales.gq/canales/tvfree/346/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar Drama
+http://iptvcanales.gq/canales/tvfree/347/playlist.m3u8
+#EXTINF:-1 group-title="España",Movistar LaLiga
+http://iptvcanales.gq/canales/tvfree/350/playlist.m3u8
+#EXTINF:-1 group-title="España",Viajar
+http://iptvcanales.gq/canales/tvfree/351/playlist.m3u8
+#EXTINF:-1 group-title="España",Toros
+http://iptvcanales.gq/canales/tvfree/352/playlist.m3u8
+#EXTINF:-1 group-title="España",TNT
+http://iptvcanales.gq/canales/tvfree/353/playlist.m3u8
+#EXTINF:-1 group-title="España",Telecinco
+http://iptvcanales.gq/canales/tvfree/354/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Playboy
+http://iptvcanales.gq/canales/oxaxx/playboy-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Brazzers
+http://iptvcanales.gq/canales/oxax/brazzers-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",OX-AX HD
+http://iptvcanales.gq/canales/oxaxx/oh-ah/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Brazzers Europe
+http://iptvcanales.gq/canales/oxax/brazzers-tv-europe/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Venus
+http://iptvcanales.gq/canales/oxaxx/venus/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Dusk
+http://iptvcanales.gq/canales/oxaxx/dusk/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",French Lover
+http://iptvcanales.gq/canales/oxaxx/french_lover/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Superone HD
+http://iptvcanales.gq/canales/oxaxx/superone-hd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Nuart
+http://iptvcanales.gq/canales/oxaxx/nuart-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Vivid Red
+http://iptvcanales.gq/canales/oxaxx/vivid-red/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Erox
+http://iptvcanales.gq/canales/oxaxx/erox-hd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Eroxxx
+http://iptvcanales.gq/canales/oxaxx/eroxxx-hd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Hustler
+http://iptvcanales.gq/canales/oxaxx/hustler-hd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Private
+http://iptvcanales.gq/canales/oxaxx/private-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Redlight
+http://iptvcanales.gq/canales/oxaxx/redlight-hd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Jasmin TV
+http://iptvcanales.gq/canales/oxaxx/jasmin-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Babes
+http://iptvcanales.gq/canales/oxaxx/babes-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Shot
+http://iptvcanales.gq/canales/oxaxx/shot-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Penthouse Gold
+http://iptvcanales.gq/canales/oxaxx/penthouse-gold/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Penthouse
+http://iptvcanales.gq/canales/oxaxx/penthouse-2/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",O La La
+http://iptvcanales.gq/canales/oxaxx/o-la-la/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Blue Hustler
+http://iptvcanales.gq/canales/oxaxx/blue-hustler/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Dorcel
+http://iptvcanales.gq/canales/oxax/dorcel-tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Extasy HD
+http://iptvcanales.gq/canales/oxaxx/extasyhd/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",XXL
+http://iptvcanales.gq/canales/oxaxx/xxl/playlist.m3u8
